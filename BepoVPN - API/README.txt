@@ -2,6 +2,10 @@ BepoVPN VPN API - Master
 
 Installation Instructions.
 
+Warning: Requires Fresh installation of CentOS 7.
+
+Server Requirements: 512MB - 1024MB of Memory, 1cpu & 25GB SSD.
+
 OS: CentOS 7
 
 yum upgrade -y
