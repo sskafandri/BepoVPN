@@ -16,7 +16,7 @@ VPN - API Master Communication.
 
 Place the file cron.sh in crontab -e under the root user:
 
-* * * * * sh /root/cron.sh
+sh /root/cron.sh
 
 How BepoVPN works!
 
