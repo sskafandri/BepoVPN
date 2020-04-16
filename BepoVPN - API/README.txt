@@ -29,6 +29,8 @@ yum -y install php-gd php-ldap php-odbc php-pear php-xml php-xmlrpc php-mbstring
 
 systemctl restart httpd.service
 
+Please BepoAPI code content inside the folder /var/www/html 
+
 Firewall: OpenPorts 1723 + 80
 
 Copyright @ DavidBrockway 2020
