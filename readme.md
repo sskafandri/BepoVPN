@@ -24,3 +24,5 @@ How BepoVPN works!
 2. cron.sh (Cron) is used to download every VPN user to each VPN server every minute.
 3. BepoVPN WHMCS modules communites with API to terminate, suspend and create accounts.
 
+Copyright @ DavidBrockway 2020
+
