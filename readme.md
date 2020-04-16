@@ -1,5 +1,9 @@
 BepoVPN VPN
 
+Waring v1.0x uses plain text no password encryption.
+
+Encryption coming in v1.5x
+
 WHMCS Module: v1.0x
 
 Installation Instructions.
